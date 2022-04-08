@@ -1,0 +1,12 @@
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\bin\Debug\Screenshot Helper.exe.config
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\bin\Debug\Screenshot Helper.exe
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\bin\Debug\Screenshot Helper.pdb
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.csprojAssemblyReference.cache
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot_Helper.Properties.Resources.resources
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.csproj.GenerateResource.cache
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.csproj.CoreCompileInputs.cache
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.exe
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.pdb
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot_Helper.Form1.resources
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\choco\source\repos\Screenshot Helper\Screenshot Helper\obj\Debug\Screenshot Helper.csproj.CopyComplete
